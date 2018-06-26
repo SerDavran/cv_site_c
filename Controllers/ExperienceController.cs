@@ -13,12 +13,5 @@ namespace cv_site_mvc.Controllers
             return View();
         }
 
-        // 
-        // GET: /Experience/Welcome/ 
-
-        public string Welcome()
-        {
-            return "This is the Welcome action method...";
-        }
     }
 }
